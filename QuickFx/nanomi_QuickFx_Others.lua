@@ -3,17 +3,11 @@
 -- ============================================================
 
 local FX_LIST = {
-    "OTT (Xfer Records)",
-    "Squash (Minimal)",
-    "Fuse Compressor (Minimal)",
-    "TDR Molotok (Tokyo Dawn Labs)",
-    "UAD La-2A (Universal Audio (UADx))",
-    "UADx Century Tube Channel Strip (Universal Audio (UADx))",
-    "The Glue (Cytomic)",
-    "Spectral Compressor (Stepwise)",
-    "Knock Clipper",
-    "khs clipper (kiloHearts)",
-    "khs compactor (kiloHearts)",
+    "Diet Audio",
+    "Disperser (kiloHearts)",
+    "khs Shaper (kiloHearts)",
+    "Sala (Fors)",
+    "Spectral Gate (Stepwise)",
     "-------------------",
     "Edit this script..."
 }
