@@ -3,6 +3,7 @@
 -- ============================================================
 
 local FX_LIST = {
+    "ReEQ",
     "ReaEQ (Cockos)",
     "Shade (UVI)",
     "Slice EQ (Kilohearts)",
