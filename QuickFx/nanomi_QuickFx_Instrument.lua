@@ -8,6 +8,7 @@ local FX_LIST = {
     "Kontakt 8 (Native Instruments)",
     "Pianoteq 9 (Modartt)",
     "imagiro piano 2 (imagiro)",
+    "FFOSSO",
     "Falcon (UVI)",
     "-------------------",
     "Edit this script..."
